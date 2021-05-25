@@ -69,7 +69,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 .two_third{width:630px;}
 .three_third{width:960px; float:none; margin-right:0; clear:both;}
 
-.one_quarter, .two_quarter, .three_quarter, .four_quarter{display:block; float:left; margin:0 20px 0 0; text-align:justify;}
+.one_quarter, .two_quarter, .three_quarter, .four_quarter{display: inline-block; margin: 5px;}
 .one_quarter{width:225px;}
 .two_quarter{width:470px;}
 .three_quarter{width:715px;}
